@@ -3,27 +3,33 @@
 1)	The screenshots of the diagrams for the various values of phi and theta are given as follows:
        
  
- 
- 
+![image](https://user-images.githubusercontent.com/63841770/90317547-00116200-df48-11ea-8369-25bff376b1a6.png)
+![image](https://user-images.githubusercontent.com/63841770/90317553-07d10680-df48-11ea-9fb7-12ab029caf10.png)
 
-
- 
- 
- 
-
-
-  
- 
-
- 
- 
- 
-
+![image](https://user-images.githubusercontent.com/63841770/90317544-fbe54480-df47-11ea-937f-b9f12b90a0f9.png)
+![image](https://user-images.githubusercontent.com/63841770/90317556-0d2e5100-df48-11ea-8cfe-5e9faada5991.png)
+![image](https://user-images.githubusercontent.com/63841770/90317557-10294180-df48-11ea-8623-0a6d8d63b792.png)
+![image](https://user-images.githubusercontent.com/63841770/90317560-13243200-df48-11ea-8b72-d0fff4922d71.png)
+![image](https://user-images.githubusercontent.com/63841770/90317564-17504f80-df48-11ea-8d5e-4dad92f5d46e.png)
+![image](https://user-images.githubusercontent.com/63841770/90317568-1b7c6d00-df48-11ea-8e1b-f632a100da56.png)
+![image](https://user-images.githubusercontent.com/63841770/90317569-1f0ff400-df48-11ea-8d89-51ec9034f570.png)
+![image](https://user-images.githubusercontent.com/63841770/90317574-259e6b80-df48-11ea-9d1e-3f8dff73ab30.png)
+![image](https://user-images.githubusercontent.com/63841770/90317576-2c2ce300-df48-11ea-985c-7a8478e3e9ca.png)
+![image](https://user-images.githubusercontent.com/63841770/90317580-2fc06a00-df48-11ea-8bff-00a75b874a23.png)
+![image](https://user-images.githubusercontent.com/63841770/90317589-3c44c280-df48-11ea-9870-35383e29c58b.png)
+![image](https://user-images.githubusercontent.com/63841770/90317594-41097680-df48-11ea-9767-831c9b46ec2a.png)
+![image](https://user-images.githubusercontent.com/63841770/90317596-436bd080-df48-11ea-8125-bc576ca06961.png)
+![image](https://user-images.githubusercontent.com/63841770/90317604-4b2b7500-df48-11ea-98dd-cb97a5350bca.png)
+![image](https://user-images.githubusercontent.com/63841770/90317605-5088bf80-df48-11ea-9f58-d3422f991f84.png)
+![image](https://user-images.githubusercontent.com/63841770/90317609-541c4680-df48-11ea-9436-35e54a09bbbd.png)
+![image](https://user-images.githubusercontent.com/63841770/90317610-57afcd80-df48-11ea-81ca-d0c3de81080d.png)
+![image](https://user-images.githubusercontent.com/63841770/90317617-5ed6db80-df48-11ea-924d-68ab88916b8b.png)
+![image](https://user-images.githubusercontent.com/63841770/90317618-61d1cc00-df48-11ea-832f-ef2c6cb4fa8b.png)
 
 2)	The two column fields indicate the value of a and b:
  
-  
 The values of f shown in the previous page were 0, 3/8 and 1/4. This page displays values 1/2 and 5/8.
+
 
  
 
