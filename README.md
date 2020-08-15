@@ -30,12 +30,9 @@
  
 The values of f shown in the previous page were 0, 3/8 and 1/4. This page displays values 1/2 and 5/8.
 
-
- 
-
- 
- 
- 
+![image](https://user-images.githubusercontent.com/63841770/90317668-abbab200-df48-11ea-8bc9-bd9ffe532ef0.png)
+![image](https://user-images.githubusercontent.com/63841770/90317673-ae1d0c00-df48-11ea-980a-8b4a45e8d1a5.png)
+![image](https://user-images.githubusercontent.com/63841770/90317678-b37a5680-df48-11ea-9e11-93acb18f38ca.png)
 
 The values of f shown here are 3/4 and 1.
 
