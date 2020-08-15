@@ -53,8 +53,10 @@ This figure shows the perspective projection.
 8) This shows the interface for the Sutherland Cohen algorithm:
  
 The following figure shows the diagram before clipping:
-
  
+![image](https://user-images.githubusercontent.com/63841770/90317744-0eac4900-df49-11ea-89b1-2ed17d9addd9.png)
+![image](https://user-images.githubusercontent.com/63841770/90317747-12d86680-df49-11ea-95a1-e5dbf49383a2.png)
+![image](https://user-images.githubusercontent.com/63841770/90317750-1a980b00-df49-11ea-89e0-8214a5a7af0b.png)
 After clipping:
  
 9) The following figure shows a snapshot of the moving fan:
