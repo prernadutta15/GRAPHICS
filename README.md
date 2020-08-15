@@ -62,3 +62,5 @@ After clipping:
 9) The following figure shows a snapshot of the moving fan:
 
  
+![image](https://user-images.githubusercontent.com/63841770/90317753-208dec00-df49-11ea-96c4-bf9753ee07f2.png)
+ 
