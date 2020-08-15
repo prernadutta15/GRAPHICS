@@ -36,7 +36,10 @@ The values of f shown in the previous page were 0, 3/8 and 1/4. This page displa
 
 The values of f shown here are 3/4 and 1.
 
-
+![image](https://user-images.githubusercontent.com/63841770/90317718-e9b7d600-df48-11ea-8180-be3ee5a1c4b4.png)
+![image](https://user-images.githubusercontent.com/63841770/90317722-f0dee400-df48-11ea-929b-927acd66aabf.png)
+![image](https://user-images.githubusercontent.com/63841770/90317727-f76d5b80-df48-11ea-9c97-2f35f2f7d138.png)
+![image](https://user-images.githubusercontent.com/63841770/90317732-fa684c00-df48-11ea-9714-d543bf76fa11.png)
  
  
 The first figure shows the interface and the second figure shows the orthographic projections for r= 5 with scale factor of 30.
