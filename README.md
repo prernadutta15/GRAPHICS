@@ -47,6 +47,8 @@ The first figure shows the interface and the second figure shows the orthographi
 This figure shows the perspective projection.
 
 
+![image](https://user-images.githubusercontent.com/63841770/90317737-005e2d00-df49-11ea-9e2a-8aeec960131d.png)
+![image](https://user-images.githubusercontent.com/63841770/90317738-02c08700-df49-11ea-8ca7-fa927d69b024.png)
 
 8) This shows the interface for the Sutherland Cohen algorithm:
  
